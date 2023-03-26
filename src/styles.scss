@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+// сброс стилей
+@import url("assets/styles/reset.scss");
+
+// подключение tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// переменные
+:root {
+}
